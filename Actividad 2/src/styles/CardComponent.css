@@ -1,0 +1,15 @@
+.component-card {
+    width: 1170px;
+    height: 100px;
+    margin: 200px 50px 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.component-card-group {
+    height: 90%;
+    width: 90%;
+    margin: 200px 50px 500px;
+  }
